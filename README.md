@@ -1,0 +1,2 @@
+simbolul-pierdut
+================
